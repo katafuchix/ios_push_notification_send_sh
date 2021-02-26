@@ -5,7 +5,7 @@ authKeyId=[Key ID]
 teamId=[Team ID]
 
 # distribution
-# bundleId=jp.co.archive-asia.demo
+# bundleId=[Bundle ID]
 # endpoint=https://api.push.apple.com
 
 # development
